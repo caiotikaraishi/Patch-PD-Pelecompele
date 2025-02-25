@@ -1,0 +1,5 @@
+#N canvas 518 363 625 270 10;
+#X declare -lib moonlib;
+#X declare -lib moonlib;
+#X declare -lib moonlib;
+#X obj 7 -6 ./.pd/.abstr/_PATCH;
